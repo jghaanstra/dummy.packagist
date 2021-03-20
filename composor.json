@@ -1,0 +1,7 @@
+{
+  "name": "solidewebservices/dummy",
+  "description": "A dummy package to claim the vendor name solidewebservices",
+  "require": {
+    "php": ">=7.4"
+  }
+}
